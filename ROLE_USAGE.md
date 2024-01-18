@@ -1,4 +1,4 @@
-### Using our roles in your playbooks
+# Using our roles in your playbooks
 
 We recommend using [Ansible Galaxy](https://galaxy.ansible.com/ui/) to install our roles.
 
