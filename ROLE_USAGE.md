@@ -41,7 +41,7 @@ There are two options:
   tags:
     - nginx
   roles:
-    - nginx
+    - nginx # name used in requirements.yml
 ```
 
 **Option 2:** Adding the role as a dependency to another role (`roles/<role name>/meta/defaults.yml`):
